@@ -1,8 +1,8 @@
 # Berrus desktop
 
-Downloads for the Berrus desktop app. The game itself runs at
-**[berrus.app](https://berrus.app)**: the app is the same game with graphics
-tuned for your computer, and your account and progress are shared everywhere.
+Downloads of Berrus for your computer. It's the same game as in the browser at
+**[berrus.app](https://berrus.app)**, with graphics tuned for your computer, and
+your account and progress are shared everywhere.
 
 **Get it at [berrus.app/download](https://berrus.app/download)**, which picks
 your system and explains the first launch. The files are also attached to the
